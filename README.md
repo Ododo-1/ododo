@@ -25,7 +25,7 @@ A gradute of Computer Science Education, University of Uyo, Nigeria
 10. Node.js
 
 
-## Other Common Github Profile Sections
+## Other Profile
 👩‍💻 Started as a Computer Science Teacher
 
 🧠 NCE Computer Science and BSc Ed. Computer Education
